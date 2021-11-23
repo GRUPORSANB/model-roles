@@ -1,4 +1,5 @@
 export interface VendorUserRole {
+    RoleId: number,
     Name: string,
     ADN: string, // vendor::spectator::read
     Permissions: VendorUserRolePermission[],

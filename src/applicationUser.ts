@@ -3,6 +3,7 @@ export interface ApplicationUser {
     Name: string,
     Email: string,
     Phone: string,
+    RoleId: number,
     CreatedOn: string,
     UpdatedOn: string,
     DeletedOn: string,
