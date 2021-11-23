@@ -1,11 +1,17 @@
 export interface VendorUserRole {
     Name: string,
-    Permissions: VendorUserRolePermission[]
+    Permissions: VendorUserRolePermission[],
+    CreatedOn: string,
+    UpdatedOn: string,
+    DeletedOn: string,
 }
 
 export interface VendorUserRolePermission {
     Name: string,
-    Actions: VendorUserRoleActions
+    Actions: VendorUserRoleActions,
+    CreatedOn: string,
+    UpdatedOn: string,
+    DeletedOn: string,
 }
 
 export enum VendorUserRoleActions {
