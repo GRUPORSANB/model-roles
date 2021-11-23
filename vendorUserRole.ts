@@ -17,6 +17,5 @@ export interface VendorUserRolePermission {
 export enum VendorUserRoleActions {
     Read = 1,
     Write = 3,
-    Delete = 7,
-    Administrator = 9
+    Delete = 7
 }
