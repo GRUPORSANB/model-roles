@@ -1,6 +1,6 @@
 {
   "name": "@gruporsa/model-roles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "- Vendor User Role",
   "main": "lib/index.js",
   "scripts": {
