@@ -1,0 +1,19 @@
+{
+  "name": "model-roles",
+  "version": "1.0.0",
+  "description": "- Vendor User Role",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRUPORSANB/model-roles.git"
+  },
+  "author": "Yamil Padron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GRUPORSANB/model-roles/issues"
+  },
+  "homepage": "https://github.com/GRUPORSANB/model-roles#readme"
+}

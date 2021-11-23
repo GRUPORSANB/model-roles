@@ -1,1 +1,3 @@
 # Roles #
+
+- Vendor User Role
