@@ -1,10 +1,11 @@
 {
-  "name": "model-roles",
+  "name": "@gruporsa/model-roles",
   "version": "1.0.0",
   "description": "- Vendor User Role",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GRUPORSANB/model-roles/issues"
   },
-  "homepage": "https://github.com/GRUPORSANB/model-roles#readme"
+  "homepage": "https://github.com/GRUPORSANB/model-roles#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
